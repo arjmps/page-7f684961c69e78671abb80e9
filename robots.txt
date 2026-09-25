@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.mouxp.cn/sitemap.xml
